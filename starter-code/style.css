@@ -35,7 +35,7 @@ h2{
 }
 
 .board{
-	height: 50%;
+	height: 80%;
 	width: 50%;
 	display: inline-block;
 }
@@ -45,9 +45,7 @@ h2{
 	width: 150px;
 	float: left;
 	margin: 8%;
-	border-style: solid;
-	border-width: 1px;
-	border-color: rgb(0,0,0);
+	border-style: 1px solid black;
 	border-radius: 10px;
 	background-color: #ffd700;
 }
